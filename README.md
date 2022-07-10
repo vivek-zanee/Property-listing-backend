@@ -70,7 +70,7 @@ Run the generated binary with: `java -jar property-listing-api.jar`
 
 ## License
 #### For more information about the license of the property-listing-api usage [click here](LICENSE)
-#### This Project is Created along with other 4 Peoples.
+#### This Project is Created along with other 5 Peoples.
 
 ## Contributing
 To contribute to the repository, open an issue or a pull request.
